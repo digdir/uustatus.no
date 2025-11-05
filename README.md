@@ -14,9 +14,9 @@ Arbeidet omfattar blant anna:
 
 ## Innhald
 
-Dette GitHub-prosjektet ([digdir.no boardet](https://github.com/orgs/digdir/projects/56)) gir oversikt over pågåande arbeid, prioriteringar og status for oppgåver i teamet. Oppgåver her kan omfatte alt frå små feilrettingar til større utviklingsinitiativ.
+Dette GitHub-prosjektet ([uustatus.no boardet](https://github.com/orgs/digdir/projects/56)) gir oversikt over pågåande arbeid, prioriteringar og status for oppgåver i teamet. Oppgåver her kan omfatte alt frå små feilrettingar til større utviklingsinitiativ.
 
 ## Kontakt og bidrag
 
 Team uustatus.no består av utviklarar, designarar og innhaldsressursar frå Digdir.  
-For spørsmål eller forslag til endringar, opprett eit issue eller kontakt teamet via Digdirs interne kanalar.
+For spørsmål eller forslag til endringar, opprett eit ([issue](https://github.com/orgs/digdir/projects/56))issue eller kontakt teamet via Digdirs interne kanalar.
