@@ -1,6 +1,6 @@
 # uustatus.no
 Backlog for uustatus.no
-Team digdir.no
+Team uustatus.no
 Her samlar vi arbeid og oppgåver knytt til utvikling og vidareutvikling av nokre av Digdir sine nettsider. Det omfattar både design, teknisk utvikling og innhaldsdesign for følgjande hovudnettstader:
 
 www.digdir.no
