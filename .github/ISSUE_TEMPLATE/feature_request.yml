@@ -1,0 +1,27 @@
+name: "✨ Feature request"
+description: "Foreslå en ny funksjon eller forbedring for uustatus.no"
+labels: ["feature"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Beskrivelse"
+      description: "Forklar funksjonen eller forbedringen du ønsker deg."
+      placeholder: "Hva ønsker du at løsningen skal gjøre?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: "Hvorfor er dette nyttig?"
+      description: "Fortell hvorfor du ønsker denne funksjonen — hvilket problem løser den?"
+      placeholder: "Denne funksjonen vil hjelpe oss å ..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Tilleggsinformasjon"
+      description: "Eventuelle ekstra detaljer, skisser, lenker eller idéer"
