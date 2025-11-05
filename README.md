@@ -2,6 +2,12 @@
 
 Her samlar vi arbeid og oppgåver knytt til utvikling og vidareutvikling av [www.uustatus.no](https://www.uustatus.no). Det omfattar både design, teknisk utvikling og innhaldsdesign.
 
+## Forbetringsforslag og feilmeldingar
+
+[Trykk på denne lenka for å melde inn forbetringsforslag til uustatus.no](https://github.com/digdir/uustatus.no/blob/main/.github/ISSUE_TEMPLATE/feature_request.yml)
+
+[Trykk på denne lenka for å melde inn feil i uustatus.no](https://github.com/digdir/uustatus.no/blob/main/.github/ISSUE_TEMPLATE/bug_report.yml)
+
 ## Om teamet
 
 Team uustatus.no har ansvar for å utvikle, drifte og forbetre løysingar som gir eit godt, samanhengande og brukarorientert inntrykk av uustatus.no
@@ -19,4 +25,8 @@ Dette GitHub-prosjektet ([uustatus.no boardet](https://github.com/orgs/digdir/pr
 ## Kontakt og bidrag
 
 Team uustatus.no består av utviklarar, designarar og innhaldsressursar frå Digdir.  
-For spørsmål eller forslag til endringar, opprett eit ([issue](https://github.com/orgs/digdir/projects/56))issue eller kontakt teamet via Digdirs interne kanalar.
+For spørsmål eller forslag til endringar, opprett eit 
+
+[issue](https://www.uustatus.no)
+
+([issue](https://github.com/orgs/digdir/projects/56))issue eller kontakt teamet via Digdirs interne kanalar.
