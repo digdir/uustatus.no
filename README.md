@@ -4,7 +4,7 @@ Her samlar vi arbeid og oppgåver knytt til utvikling og vidareutvikling av [www
 
 ## Forbetringsforslag og feilmeldingar
 
-[Trykk på denne lenka for å melde inn forbetringsforslag til uustatus.no](https://github.com/digdir/uustatus.no/blob/main/.github/ISSUE_TEMPLATE/feature_request.yml)
+[Trykk på denne lenka for å melde inn forbetringsforslag til uustatus.no](https://github.com/digdir/uustatus.no/issues/new?template=feature_request.yml)
 
 [Trykk på denne lenka for å melde inn feil i uustatus.no](https://github.com/digdir/uustatus.no/issues/new?template=bug_report.yml)
 ## Om teamet
