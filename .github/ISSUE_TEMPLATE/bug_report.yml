@@ -1,0 +1,30 @@
+name: "🐞 Bug report"
+description: "Rapporter en feil i uustatus.no"
+labels: ["bug"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: "Beskrivelse av feilen"
+      description: "Forklar hva som er galt og hva du forventet skulle skje."
+      placeholder: "Forventet resultat vs. faktisk resultat"
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Hvordan gjenskape feilen"
+      description: "Skriv trinnene for å gjenskape feilen"
+      placeholder: |
+        1. Gå til '...'
+        2. Klikk på '...'
+        3. Se feilen
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: "Tilleggsinformasjon"
+      description: "Eventuell ekstra informasjon, skjermbilder eller logg"
